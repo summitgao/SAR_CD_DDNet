@@ -1,6 +1,6 @@
 This code is for our paper **Change Detection in Synthetic Aperture Radar Images Based on Dual Domain Network**. in *IEEE Geoscience and Remote Sensing Letters*, 2021.
 
-by Xiaofan Qu, Ocean University of China
+Xiaofan Qu, Feng Gao, Junyu Dong, Qian Du, Heng-Chao Li
 
 
 
